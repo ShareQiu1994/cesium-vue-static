@@ -1,4 +1,4 @@
-# cesium-vue-static(基于vuecli2.x)
+# cesium-vue-static(基于vuecli2.x 静态资源版本)
 
 > 一个整合了Cesium的VueCli2.x的脚手架工具[静态资源版]
 
